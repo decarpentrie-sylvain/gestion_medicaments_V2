@@ -1,6 +1,3 @@
-
-
-
 import sqlite3
 
 def ajouter_colonnes_si_absentes(nom_table: str, colonnes: dict, db_path: str):
