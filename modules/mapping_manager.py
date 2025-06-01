@@ -1,0 +1,1 @@
+# À compléter plus tard : gestion du mappage de colonnes pour les imports
