@@ -1,0 +1,22 @@
+# Caches Python
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Base SQLite (si vous préférez ne pas versionner le fichier binaire)
+# db/base_stock.sqlite
+
+# Fichiers temporaires de log ou scripts obsolètes
+post_commit.log
+run_interface.sh
+test_imports.py
+# README.md
+
+# Autres dossiers/fichiers temporaires éventuels
+*.logdb/
